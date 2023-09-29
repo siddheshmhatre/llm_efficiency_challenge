@@ -6,3 +6,4 @@ peft
 accelerate
 datasets
 bitsandbytes
+git+https://github.com/drisspg/helm.git@neruips_client
